@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="485" height="200" viewBox="0 0 485 200" fill="none" version="1.1" id="svg113" sodipodi:docname="Zilliz_logo_svgexport-1.svg" inkscape:version="1.2.2 (b0a84865, 2022-12-01)">
+  <g clip-path="url(#clip0_4874_3768)" fill="none" id="g87" transform="scale(5)">
+    <rect width="97" height="40" fill="#000000" fill-opacity="0" id="rect59" x="0" y="0"></rect>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="m 18.6541,27.0547 v 12.7402 h 2.4872 V 24.5393 l 6.6133,11.4545 c 0.7484,-0.366 1.4675,-0.7827 2.1528,-1.2455 l -7.2399,-12.5399 7.9735,2.9021 c 0.3597,-0.74 0.6452,-1.5228 0.8469,-2.3386 L 27.007,21.141 H 39.7949 V 18.6538 H 24.5381 L 35.9936,12.04 C 35.6276,11.2916 35.2109,10.5725 34.748,9.8872 L 22.2832,17.0838 25.1605,9.1786 C 24.4221,8.81536 23.6406,8.52618 22.8259,8.32075 L 21.1413,12.9492 V 0 H 18.6541 V 15.257 L 12.04,3.80101 C 11.2916,4.16702 10.5725,4.58369 9.88716,5.04654 L 17.0968,17.534 9.17163,14.6495 c -0.3622,0.7389 -0.6503,1.5207 -0.85461,2.3357 l 4.58448,1.6686 H 1.08717e-7 L 0,21.141 H 15.2559 L 3.80081,27.7546 c 0.36601,0.7484 0.78267,1.4675 1.24552,2.1528 l 12.56257,-7.2529 -2.9094,7.9933 c 0.7405,0.3588 1.5236,0.6432 2.3397,0.8437 z" fill="url(&quot;#desktop-logo&quot;)" id="path61" style="fill:url(#desktop-logo)"></path>
+    <rect x="46.0625" y="12.4359" width="11.3415" height="2.48718" fill="#000000" id="rect63"></rect>
+    <rect x="85.359901" y="12.4359" width="11.3415" height="2.48718" fill="#000000" id="rect65"></rect>
+    <rect x="67.054199" y="6.6656299" width="2.6861501" height="20.6933" fill="#000000" id="rect67"></rect>
+    <rect x="61.084999" y="12.4359" width="2.6861501" height="14.9231" fill="#000000" id="rect69"></rect>
+    <rect width="2.6861501" height="2.6861501" transform="matrix(1,0,0,-1,61.085,9.35179)" fill="#000000" id="rect71" x="0" y="0"></rect>
+    <rect x="45.764198" y="24.871799" width="11.9385" height="2.48718" fill="#000000" id="rect73"></rect>
+    <path d="m 45.7642,24.8718 8.4574,-9.9487 h 3.1826 l -8.4575,9.9487 z" fill="#000000" id="path75"></path>
+    <path d="m 85.0615,24.8718 8.4575,-9.9487 h 3.1825 l -8.4574,9.9487 z" fill="#000000" id="path77"></path>
+    <rect x="73.023399" y="6.6656299" width="2.6861501" height="20.6933" fill="#000000" id="rect79"></rect>
+    <rect x="85.061501" y="24.871799" width="11.9385" height="2.48718" fill="#000000" id="rect81"></rect>
+    <rect x="78.992699" y="12.4359" width="2.6861501" height="14.9231" fill="#000000" id="rect83"></rect>
+    <rect width="2.6861501" height="2.6861501" transform="matrix(1,0,0,-1,78.9927,9.35179)" fill="#000000" id="rect85" x="0" y="0"></rect>
+  </g>
+  <defs id="defs111">
+    <linearGradient id="desktop-logo" x1="8.4564104" y1="4.2282" x2="29.050301" y2="37.606098" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9D41FF" id="stop89"></stop>
+      <stop offset="0.468794" stop-color="#2858FF" id="stop91"></stop>
+      <stop offset="0.770884" stop-color="#29B8FF" id="stop93"></stop>
+      <stop offset="1" stop-color="#00F0FF" id="stop95"></stop>
+    </linearGradient>
+    <clipPath id="clip0_4874_3768">
+      <rect width="97" height="40" fill="#ffffff" id="rect98" x="0" y="0"></rect>
+    </clipPath>
+    <linearGradient id="linearGradient109" x1="8.4564104" y1="4.2282" x2="29.050301" y2="37.606098" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9D41FF" id="stop101"></stop>
+      <stop offset="0.468794" stop-color="#2858FF" id="stop103"></stop>
+      <stop offset="0.770884" stop-color="#29B8FF" id="stop105"></stop>
+      <stop offset="1" stop-color="#00F0FF" id="stop107"></stop>
+    </linearGradient>
+  </defs>
+</svg>
